@@ -1,0 +1,16 @@
+#ignore all 
+*
+#unignore all directories 
+!/**/
+!*/
+ 
+#unignore all wih extensions
+!*.*
+
+# Ignore files with extension `.class` , `.sm`, `.o`
+*.o
+*.class
+*.sm
+
+
+

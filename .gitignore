@@ -6,6 +6,7 @@
  
 #unignore all wih extensions
 !*.*
+!*.cpp
 
 # Ignore files with extension `.class` , `.sm`, `.o`
 *.o

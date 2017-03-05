@@ -1,7 +1,6 @@
 #ignore all 
 *
 #unignore all directories 
-!/**/
 !*/
  
 #unignore all wih extensions
